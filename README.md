@@ -21,3 +21,6 @@ Smaller schools appear to have an advantage in terms of student performance. The
 Budget Impact on Academic Achievement:
 
 Lower per student budgets are associated with higher academic performance. This could suggest that efficient allocation of resources directly contributes to improved student outcomes.
+
+
+I used Google & ChatGPT fpr help on the syntax for a lot of this. I'm still learning and new and the internet helps out so much with this. I've used a tutor for this homework and the homeworks and google for help as well.
